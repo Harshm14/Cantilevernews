@@ -36,7 +36,7 @@ const Header = () => {
                 <Link to='/reviews'>Reviews</Link>
               </li>
               <li>
-                <Link to='/reviews'>Login</Link>
+                <Link to='/login'>Login</Link>
               </li>
             </ul>
             <button className='barIcon' onClick={() => setNavbar(!navbar)}>
