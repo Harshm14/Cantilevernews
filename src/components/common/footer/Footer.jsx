@@ -60,7 +60,7 @@ const Footer = () => {
         <div className='container flexSB'>
           <p>© all rights reserved</p>
           <p>
-            made with <i className='fa fa-heart'></i> by gorkhcoder
+            <i className='fa fa-heart'></i>
           </p>
         </div>
       </div>
